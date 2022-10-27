@@ -9,9 +9,9 @@ const StyleButton = (props) => {
 
   const { type, content, onPress } = props;
 
-  const backgroundColor = type === "primary" ? "#171A20" : "#FFFFFF";
+  const backgroundColor = type === "primary" ? "#171A20B3" : "#FFFFFF99";
   const textColor = type === "primary" ? "#FFFFFF" : "#171A20";
-  const marginTop = type === "primary" ? "171%" : "188%";
+  const marginTop = type === "primary" ? 0 : 65;
 
   return (
     <View style={[styles.container, { marginTop: marginTop }]}>
