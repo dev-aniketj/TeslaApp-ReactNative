@@ -1,4 +1,19 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet, View, Image } from "react-native";
+
+const Header = () => {
+  return (
+    <View style={styles.container}>
+      <Image
+        source={require("../assets/images/logo.png")}
+        style={styles.logo}
+      />
+      <Image
+        source={require("../assets/images/menu.png")}
+        style={styles.menu}
+      />
+    </View>
+  );
+};
 
 const styles = StyleSheet.create({
   container: {
@@ -23,4 +38,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default styles;
+export default Header;

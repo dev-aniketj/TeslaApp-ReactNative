@@ -1,8 +1,13 @@
-import React from "react";
-import { View, Text, ImageBackground, ToastAndroid } from "react-native";
-import StyleButton from "../StyleButton";
-import styles from "./styles";
-import Header from "../Header";
+import {
+  StyleSheet,
+  View,
+  Text,
+  ImageBackground,
+  ToastAndroid,
+  Dimensions,
+} from "react-native";
+import StyleButton from "./StyleButton";
+import Header from "./Header";
 
 const CarItem = (props) => {
   const { name, tagline, taglineCTA, image } = props.car;
@@ -39,3 +44,39 @@ const CarItem = (props) => {
   );
 };
 export default CarItem;
+
+const styles = StyleSheet.create({
+  carConatiner: {
+    width: "100%",
+    height: Dimensions.get("window").height,
+  },
+  buttonsContainer: {
+    position: "absolute",
+    bottom: 150,
+    width: "100%",
+  },
+  image: {
+    width: "100%",
+    height: Dimensions.get("window").height,
+    resizeMode: "cover",
+    position: "absolute",
+  },
+  titles: {
+    width: "100%",
+    top: 50,
+    alignItems: "center",
+  },
+  title: {
+    color: "#232323",
+    fontSize: 37,
+    fontWeight: "700",
+  },
+  subtitle: {
+    color: "#343434",
+    fontSize: 16,
+    fontWeight: "300",
+  },
+  subtitleCTA: {
+    textDecorationLine: "underline",
+  },
+});

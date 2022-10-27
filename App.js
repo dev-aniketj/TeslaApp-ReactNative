@@ -3,15 +3,17 @@ import React from "react";
 import { StyleSheet, View } from "react-native";
 import CarsList from "./components/CarsList";
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <StatusBar style="light" />
-      <View style={styles.list}>
-        <CarsList />
+export default class App extends React.Component {
+  render() {
+    return (
+      <View style={styles.container}>
+        <StatusBar style="light" />
+        <View style={styles.list}>
+          <CarsList />
+        </View>
       </View>
-    </View>
-  );
+    );
+  }
 }
 
 const styles = StyleSheet.create({
@@ -20,6 +22,6 @@ const styles = StyleSheet.create({
     backgroundColor: "#171A20",
   },
   list: {
-    marginTop: 38,
+    marginTop: 35,
   },
 });

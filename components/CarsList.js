@@ -1,7 +1,7 @@
-import { View, Text, FlatList, Dimensions } from "react-native";
-import styles from "./styles";
-import cars from "./cars";
-import CarItem from "../CarItem";
+import { StyleSheet, View, FlatList, Dimensions } from "react-native";
+import cars from "./cars_list/cars";
+import CarItem from "./CarItem";
+import Header from "./Header";
 
 const CarsList = (props) => {
   return (
@@ -17,5 +17,11 @@ const CarsList = (props) => {
     </View>
   );
 };
+
+const styles = StyleSheet.create({
+  container: {
+    width: "100%",
+  },
+});
 
 export default CarsList;
