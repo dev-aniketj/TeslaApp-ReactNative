@@ -4,6 +4,7 @@ const styles = StyleSheet.create({
   carConatiner: {
     width: "100%",
     height: "100%",
+    flexDirection: "column",
   },
   imageStyle: {
     width: "100%",
