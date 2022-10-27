@@ -18,8 +18,8 @@ const Header = () => {
 const styles = StyleSheet.create({
   container: {
     width: "100%",
-    paddingHorizontal: 12,
-    top: 10,
+    paddingHorizontal: 20,
+    top: 14,
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
