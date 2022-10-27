@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.aniketjain8441.TeslaCloneApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
