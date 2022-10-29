@@ -4,7 +4,7 @@
 
 ## Description
 
-In this project, I am developed clone application of the Offical [Tesla](http://tesla.com) Website by using **React Native**.
+### In this project, I am developed clone application of the Offical [Tesla](http://tesla.com) Website by using **React Native**.
 
 ## Preview
 
