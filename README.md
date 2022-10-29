@@ -8,7 +8,7 @@ In this project, I am developed clone application of the Offical [Tesla](http://
 
 ## Preview
 
-<video width="120" controls autoplay loop>
+<video width="200" controls autoplay loop>
   <source src="SS/video1.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
@@ -16,10 +16,10 @@ In this project, I am developed clone application of the Offical [Tesla](http://
 ## ScreenShot
 
 <p>
-    <img src="SS/image1.jpg" alt="Girl in a jacket" width="120">
-    <img src="SS/image2.jpg" alt="Girl in a jacket" width="120">
-    <img src="SS/image3.jpg" alt="Girl in a jacket" width="120">
-    <img src="SS/image4.jpg" alt="Girl in a jacket" width="120">
+    <img src="SS/image1.jpg" alt="Girl in a jacket" width="200">
+    <img src="SS/image2.jpg" alt="Girl in a jacket" width="200">
+    <img src="SS/image3.jpg" alt="Girl in a jacket" width="200">
+    <img src="SS/image4.jpg" alt="Girl in a jacket" width="180">
 </p>
 
 ## Contributing
