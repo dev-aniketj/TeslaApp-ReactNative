@@ -8,10 +8,7 @@
 
 ## Preview
 
-<video width="185" controls autoplay loop>
-  <source src="SS/video1.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+<img src="SS/gif1.gif" alt="Girl in a jacket" width="185">
 
 ## ScreenShot
 
