@@ -8,12 +8,7 @@
 
 ## Preview
 
-<p>
-    <video width="200" height="400" controls autoplay loop>
-        <source src="SS/video1.mp4" type="video/mp4">
-        Your browser does not support HTML video.
-    </video>
-</p>
+
 
 ## ScreenShot
 
