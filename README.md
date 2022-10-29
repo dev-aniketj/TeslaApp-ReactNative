@@ -8,7 +8,7 @@
 
 ## Preview
 
-<video width="200" controls autoplay loop>
+<video width="185" controls autoplay loop>
   <source src="SS/video1.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
@@ -16,10 +16,10 @@
 ## ScreenShot
 
 <p>
-    <img src="SS/image1.jpg" alt="Girl in a jacket" width="200">
-    <img src="SS/image2.jpg" alt="Girl in a jacket" width="200">
-    <img src="SS/image3.jpg" alt="Girl in a jacket" width="200">
-    <img src="SS/image4.jpg" alt="Girl in a jacket" width="180">
+    <img src="SS/image1.jpg" alt="Girl in a jacket" width="170">
+    <img src="SS/image2.jpg" alt="Girl in a jacket" width="170">
+    <img src="SS/image3.jpg" alt="Girl in a jacket" width="170">
+    <img src="SS/image4.jpg" alt="Girl in a jacket" width="170">
 </p>
 
 ## Contributing
