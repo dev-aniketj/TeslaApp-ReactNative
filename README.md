@@ -15,10 +15,10 @@
 ## ScreenShot
 
 <p>
-    <img src="SS/image1.jpg" alt="Girl in a jacket" width="170">
-    <img src="SS/image2.jpg" alt="Girl in a jacket" width="170">
-    <img src="SS/image3.jpg" alt="Girl in a jacket" width="170">
-    <img src="SS/image4.jpg" alt="Girl in a jacket" width="170">
+    <img src="SS/image1.jpg" alt="Girl in a jacket" width="180">
+    <img src="SS/image2.jpg" alt="Girl in a jacket" width="180">
+    <img src="SS/image3.jpg" alt="Girl in a jacket" width="180">
+    <img src="SS/image4.jpg" alt="Girl in a jacket" width="180">
 </p>
 
 ## Contributing
