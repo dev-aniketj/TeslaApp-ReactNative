@@ -7,7 +7,7 @@
 ### In this project, I am developed clone application of the Offical [Tesla](http://tesla.com) Website by using **React Native**.
 
 ## Preview
-<video controls autoplay loop src="https://user-images.githubusercontent.com/81229551/198842246-6c0b7e84-25d7-4324-8700-8a7ba6aed1af.mp4" >
+<video controls autoplay loop src="https://user-images.githubusercontent.com/81229551/198842246-6c0b7e84-25d7-4324-8700-8a7ba6aed1af.mp4" width="185" height="300">
   Your browser does not support the video tag.
 </video>
 
