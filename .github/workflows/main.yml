@@ -1,11 +1,10 @@
 name: React native CI
 
 on:
+  push:
+    branches: [ "master" ]
   pull_request:
-    branches:
-      - "master"
-      - "develop"
-      - "preprod"
+    branches: [ "master" ]
 
 jobs:
   #First job
